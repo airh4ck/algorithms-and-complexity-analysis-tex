@@ -1,0 +1,58 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{1. Вопрос 1}{1}{section.1}%
+\contentsline {subsection}{1.1. Машины Тьюринга и тезис Чёрча}{1}{subsection.1.1}%
+\contentsline {subsection}{1.2. Классы \textsc {RE}, \textsc {R} и \textsc {co-RE}, доказательство $\textsc {R} = \textsc {RE} \cap \textsc {co-RE}$}{2}{subsection.1.2}%
+\contentsline {subsection}{1.3. Проблемы \textsc {Acceptance}, \textsc {Halting}, \textsc {Emptiness}}{3}{subsection.1.3}%
+\contentsline {section}{2. Вопрос 2}{5}{section.2}%
+\contentsline {subsection}{2.1. Совпадение классов языков, распознаваемых ДМТ, МДМТ, НМТ}{5}{subsection.2.1}%
+\contentsline {section}{3. Вопрос 3}{8}{section.3}%
+\contentsline {subsection}{3.1. Построение универсальной машины Тьюринга}{8}{subsection.3.1}%
+\contentsline {subsection}{3.2. Формулировка теоремы о неразрешимости 10-й Проблемы Гильберта}{8}{subsection.3.2}%
+\contentsline {subsection}{3.3. Взаимное сведение 10-й проблемы Гильберта и задачи разрешимости для экзистенциальной арифметики натуральных чисел}{8}{subsection.3.3}%
+\contentsline {section}{4. Вопрос 4}{10}{section.4}%
+\contentsline {subsection}{4.1. Совпадение \textsc {RE} с классом языков, распознаваемых с помощью counter machines c 4 счётчиками}{10}{subsection.4.1}%
+\contentsline {section}{5. Вопрос 5}{11}{section.5}%
+\contentsline {subsection}{5.1. Определение классов сложности \textsc {P}, \textsc {NP}, \textsc {co-NP}}{11}{subsection.5.1}%
+\contentsline {subsection}{5.2. Определение полиномиальной сводимости и класса \textsc {NP}-полных языков}{12}{subsection.5.2}%
+\contentsline {subsection}{5.3. Взаимосвязи этих классов}{12}{subsection.5.3}%
+\contentsline {subsection}{5.4. Доказательство того, что если \textsc {NP}-полный язык лежит в \textsc {co-NP}, то $\textsc {NP} = \textsc {co-NP}$ }{12}{subsection.5.4}%
+\contentsline {section}{6. Вопрос 6}{13}{section.6}%
+\contentsline {subsection}{6.1. Принадлежность \textsc {PRIMES} пересечению \textsc {NP} и \textsc {co-NP}}{13}{subsection.6.1}%
+\contentsline {subsection}{6.2. Принадлежность \textsc {FACTORIZATION} пересечению \textsc {NP} и \textsc {co-NP}}{13}{subsection.6.2}%
+\contentsline {section}{7. Вопрос 7}{14}{section.7}%
+\contentsline {subsection}{7.1. Теорема Кука-Левина об \textsc {NP}-полноте задачи \textsc {CNF-SAT}}{14}{subsection.7.1}%
+\contentsline {subsection}{7.2. \textsc {co-NP}-полнота задачи \textsc {TAUTOLOGY}}{15}{subsection.7.2}%
+\contentsline {section}{8. Вопрос 8}{17}{section.8}%
+\contentsline {subsection}{8.1. Доказательство NP-полноты простых задач: \textsc {3-SAT}, \textsc {1-in-3-SAT}, \textsc {SUBSET SUM}, \textsc {SYSTEM OF INCONGRUENCES}}{17}{subsection.8.1}%
+\contentsline {section}{9. Вопрос 9}{20}{section.9}%
+\contentsline {subsection}{9.1. \textsc {NP}-полнота задачи о линейных диофантовых уравнениях в $\mathbb {N}$, класс задач \textsc {NP-hard}}{20}{subsection.9.1}%
+\contentsline {section}{10. Вопрос 10}{21}{section.10}%
+\contentsline {subsection}{10.1. Задачи \textsc {VERTEX COVER}, \textsc {CLIQUE} и \textsc {INDEPENDENT SET}}{21}{subsection.10.1}%
+\contentsline {subsection}{10.2. Определение FPT-алгоритмов. Примеры FPT-алгоритмов для VERTEX COVER и CLIQUE}{25}{subsection.10.2}%
+\contentsline {section}{11. Вопрос 11}{26}{section.11}%
+\contentsline {subsection}{11.1. Определение классов функций FP и \#P и класс языков PP}{26}{subsection.11.1}%
+\contentsline {subsection}{11.2. Доказательство эквивалентности FP = \#P и P = PP}{26}{subsection.11.2}%
+\contentsline {subsection}{11.3. Доказательство NP $\subseteq $ PP}{27}{subsection.11.3}%
+\contentsline {section}{12. Вопрос 12}{29}{section.12}%
+\contentsline {subsection}{12.1. Замкнутость класса PP относительно дополнения}{29}{subsection.12.1}%
+\contentsline {section}{13. Вопрос 13}{30}{section.13}%
+\contentsline {subsection}{13.1. Alternating Turing machine и класс AP}{30}{subsection.13.1}%
+\contentsline {subsection}{13.2. Совпадение AP и PSPACE}{30}{subsection.13.2}%
+\contentsline {section}{14. Вопрос 14}{32}{section.14}%
+\contentsline {subsection}{14.1. AP-полнота задачи TRUE QUANTIFIED BOOLEAN FORMULAS}{32}{subsection.14.1}%
+\contentsline {section}{15. Вопрос 16}{34}{section.15}%
+\contentsline {subsection}{15.1. Арифметика Пресбургера}{34}{subsection.15.1}%
+\contentsline {subsection}{15.2. Необходимость расширения сигнатуры}{34}{subsection.15.2}%
+\contentsline {subsection}{15.3. Формулировка теоремы об элиминации кванторов}{34}{subsection.15.3}%
+\contentsline {section}{16. Вопрос 18}{36}{section.16}%
+\contentsline {subsection}{16.1. Монадические теории натуральных чисел второго порядка}{36}{subsection.16.1}%
+\contentsline {subsection}{16.2. Неразрешимость $\textbf {MSO}\text {Th}<\mathbb {N}; 0, 1, +, =, \in >$}{36}{subsection.16.2}%
+\contentsline {section}{17. Вопрос 19}{37}{section.17}%
+\contentsline {subsection}{17.1. Конечные автоматы}{37}{subsection.17.1}%
+\contentsline {subsection}{17.2. Замкнутость регулярных языков относительно различных операций}{37}{subsection.17.2}%
+\contentsline {subsection}{17.3. Совпадение классов языков, распознаваемых ДКА и НКА}{38}{subsection.17.3}%
+\contentsline {subsection}{17.4. Разрешимость проблем Emptiness и Equality}{38}{subsection.17.4}%
+\contentsline {section}{18. Вопрос 20}{40}{section.18}%
+\contentsline {subsection}{18.1. k-регулярные подмножества $\mathbb {N}^n$}{40}{subsection.18.1}%
+\contentsline {subsection}{18.2. Формулировка теоремы Кобхема-Семёнова и её применение для доказательства невозможности построения конечного автомата}{40}{subsection.18.2}%
+\contentsline {subsection}{18.3. Доказательство того факта, что всякое отношение, выразимое в $<\mathbb {N}; 0, 1, +, V_k , =>$, является k-регулярным}{41}{subsection.18.3}%
